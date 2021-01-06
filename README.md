@@ -14,6 +14,7 @@
 [<img align="left" alt="Steibi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -26,7 +27,16 @@
 [<img align="left" target="_blank" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][javaplaylist]
 
 <br />
-<br />
+
+
+---
+
+<img align="left" alt="SteibiM's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SteibiM&show_icons=true&hide_border=true&theme=merko&hide=contribs" />
+<br /><br /><br /><br /><br /><br /><br />
+
+
+<img align="left" alt="SteibiM's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteibiM&langs_count=5&layout=compact"/>
+
 
 [facebook]: https://www.facebook.com/stefan.munteanu.1042
 [instagram]: https://www.instagram.com/stefan_munteanu14/
