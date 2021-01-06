@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**SteibiM/SteibiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Stefan - aka [Steibi] 👋
 
 ## I'm a Student, Developer!
@@ -25,7 +20,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
 <br />
@@ -34,3 +28,10 @@
 [facebook]: https://www.facebook.com/stefan.munteanu.1042
 [instagram]: https://www.instagram.com/stefan_munteanu14/
 [linkedin]: https://www.linkedin.com/in/munteanu-stefan-3487a91b7/
+[jsplaylist]:https://www.w3schools.com/js/DEFAULT.asp
+[webdevplaylist]:https://code.visualstudio.com/
+[webdevplaylist]:https://www.w3schools.com/html/
+[cssplaylist]:https://www.w3schools.com/css/default.asp
+<!--
+**SteibiM/SteibiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
