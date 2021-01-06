@@ -41,7 +41,7 @@
 
 <img align="left" alt="SteibiM's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SteibiM&show_icons=true&hide_border=true&theme=merko&hide=contribs" />
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ---
 
