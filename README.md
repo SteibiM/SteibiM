@@ -34,8 +34,9 @@
 <img align="left" alt="SteibiM's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SteibiM&show_icons=true&hide_border=true&theme=merko&hide=contribs" />
 <br /><br /><br /><br /><br /><br /><br />
 
+#### Top Languages:
 
-<img align="left" alt="SteibiM's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteibiM&langs_count=5&layout=compact"/>
+<img align="left" alt="SteibiM's GitHub Limbaj" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteibiM&langs_count=5&layout=compact"/>
 
 
 [facebook]: https://www.facebook.com/stefan.munteanu.1042
